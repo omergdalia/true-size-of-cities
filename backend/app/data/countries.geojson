@@ -1,0 +1,726 @@
+{
+  "type": "FeatureCollection",
+  "name": "countries",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "US",
+      "properties": {
+        "code": "US",
+        "name": "United States",
+        "capital": "Washington D.C."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -125.0,
+              24.4
+            ],
+            [
+              -66.9,
+              24.4
+            ],
+            [
+              -66.9,
+              49.4
+            ],
+            [
+              -125.0,
+              49.4
+            ],
+            [
+              -125.0,
+              24.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GB",
+      "properties": {
+        "code": "GB",
+        "name": "United Kingdom",
+        "capital": "London"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6,
+              49.9
+            ],
+            [
+              1.8,
+              49.9
+            ],
+            [
+              1.8,
+              60.9
+            ],
+            [
+              -8.6,
+              60.9
+            ],
+            [
+              -8.6,
+              49.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FR",
+      "properties": {
+        "code": "FR",
+        "name": "France",
+        "capital": "Paris"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.8,
+              42.3
+            ],
+            [
+              8.2,
+              42.3
+            ],
+            [
+              8.2,
+              51.1
+            ],
+            [
+              -4.8,
+              51.1
+            ],
+            [
+              -4.8,
+              42.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DE",
+      "properties": {
+        "code": "DE",
+        "name": "Germany",
+        "capital": "Berlin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.9,
+              47.3
+            ],
+            [
+              15.0,
+              47.3
+            ],
+            [
+              15.0,
+              55.1
+            ],
+            [
+              5.9,
+              55.1
+            ],
+            [
+              5.9,
+              47.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JP",
+      "properties": {
+        "code": "JP",
+        "name": "Japan",
+        "capital": "Tokyo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.5,
+              31.0
+            ],
+            [
+              145.8,
+              31.0
+            ],
+            [
+              145.8,
+              45.5
+            ],
+            [
+              129.5,
+              45.5
+            ],
+            [
+              129.5,
+              31.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CN",
+      "properties": {
+        "code": "CN",
+        "name": "China",
+        "capital": "Beijing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5,
+              18.2
+            ],
+            [
+              135.0,
+              18.2
+            ],
+            [
+              135.0,
+              53.6
+            ],
+            [
+              73.5,
+              53.6
+            ],
+            [
+              73.5,
+              18.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IN",
+      "properties": {
+        "code": "IN",
+        "name": "India",
+        "capital": "New Delhi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68.1,
+              8.1
+            ],
+            [
+              97.4,
+              8.1
+            ],
+            [
+              97.4,
+              37.1
+            ],
+            [
+              68.1,
+              37.1
+            ],
+            [
+              68.1,
+              8.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BR",
+      "properties": {
+        "code": "BR",
+        "name": "Brazil",
+        "capital": "Bras\u00edlia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9,
+              -33.7
+            ],
+            [
+              -34.8,
+              -33.7
+            ],
+            [
+              -34.8,
+              5.3
+            ],
+            [
+              -73.9,
+              5.3
+            ],
+            [
+              -73.9,
+              -33.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AU",
+      "properties": {
+        "code": "AU",
+        "name": "Australia",
+        "capital": "Canberra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.3,
+              -43.6
+            ],
+            [
+              153.6,
+              -43.6
+            ],
+            [
+              153.6,
+              -10.7
+            ],
+            [
+              113.3,
+              -10.7
+            ],
+            [
+              113.3,
+              -43.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RU",
+      "properties": {
+        "code": "RU",
+        "name": "Russia",
+        "capital": "Moscow"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.3,
+              41.2
+            ],
+            [
+              180.0,
+              41.2
+            ],
+            [
+              180.0,
+              81.9
+            ],
+            [
+              27.3,
+              81.9
+            ],
+            [
+              27.3,
+              41.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CA",
+      "properties": {
+        "code": "CA",
+        "name": "Canada",
+        "capital": "Ottawa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -141.0,
+              41.7
+            ],
+            [
+              -52.6,
+              41.7
+            ],
+            [
+              -52.6,
+              83.1
+            ],
+            [
+              -141.0,
+              83.1
+            ],
+            [
+              -141.0,
+              41.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MX",
+      "properties": {
+        "code": "MX",
+        "name": "Mexico",
+        "capital": "Mexico City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.1,
+              14.5
+            ],
+            [
+              -86.7,
+              14.5
+            ],
+            [
+              -86.7,
+              32.7
+            ],
+            [
+              -117.1,
+              32.7
+            ],
+            [
+              -117.1,
+              14.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ZA",
+      "properties": {
+        "code": "ZA",
+        "name": "South Africa",
+        "capital": "Pretoria"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.3,
+              -34.8
+            ],
+            [
+              33.0,
+              -34.8
+            ],
+            [
+              33.0,
+              -22.1
+            ],
+            [
+              16.3,
+              -22.1
+            ],
+            [
+              16.3,
+              -34.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EG",
+      "properties": {
+        "code": "EG",
+        "name": "Egypt",
+        "capital": "Cairo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.7,
+              22.0
+            ],
+            [
+              36.9,
+              22.0
+            ],
+            [
+              36.9,
+              31.7
+            ],
+            [
+              24.7,
+              31.7
+            ],
+            [
+              24.7,
+              22.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AR",
+      "properties": {
+        "code": "AR",
+        "name": "Argentina",
+        "capital": "Buenos Aires"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6,
+              -55.1
+            ],
+            [
+              -53.7,
+              -55.1
+            ],
+            [
+              -53.7,
+              -21.8
+            ],
+            [
+              -73.6,
+              -21.8
+            ],
+            [
+              -73.6,
+              -55.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NG",
+      "properties": {
+        "code": "NG",
+        "name": "Nigeria",
+        "capital": "Abuja"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7,
+              4.3
+            ],
+            [
+              14.7,
+              4.3
+            ],
+            [
+              14.7,
+              13.9
+            ],
+            [
+              2.7,
+              13.9
+            ],
+            [
+              2.7,
+              4.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SA",
+      "properties": {
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "capital": "Riyadh"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.5,
+              16.4
+            ],
+            [
+              55.7,
+              16.4
+            ],
+            [
+              55.7,
+              32.2
+            ],
+            [
+              36.5,
+              32.2
+            ],
+            [
+              36.5,
+              16.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KR",
+      "properties": {
+        "code": "KR",
+        "name": "South Korea",
+        "capital": "Seoul"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.1,
+              33.1
+            ],
+            [
+              129.6,
+              33.1
+            ],
+            [
+              129.6,
+              38.6
+            ],
+            [
+              125.1,
+              38.6
+            ],
+            [
+              125.1,
+              33.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ID",
+      "properties": {
+        "code": "ID",
+        "name": "Indonesia",
+        "capital": "Jakarta"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95.1,
+              -11.0
+            ],
+            [
+              141.0,
+              -11.0
+            ],
+            [
+              141.0,
+              6.0
+            ],
+            [
+              95.1,
+              6.0
+            ],
+            [
+              95.1,
+              -11.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TR",
+      "properties": {
+        "code": "TR",
+        "name": "Turkey",
+        "capital": "Ankara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.0,
+              35.8
+            ],
+            [
+              44.8,
+              35.8
+            ],
+            [
+              44.8,
+              42.1
+            ],
+            [
+              26.0,
+              42.1
+            ],
+            [
+              26.0,
+              35.8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
